@@ -1,5 +1,10 @@
 # 301 cleanup
 
+- new features
+  - SASS
+  - ES6 (let, const, template literals)
+  - PostGres?
+
 - Facilitator's Guide
   - Move RWD to class 01 & Push current jQuery days to class 02-03
 
